@@ -1,0 +1,20 @@
+{
+  "name": "user-info-api",
+  "version": "1.0.0",
+  "description": "Express server to get Telegram user info",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suprojects/user-info-api.git"
+  },
+  "author": "Roj <@rojserbest>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suprojects/user-info-api/issues"
+  },
+  "homepage": "https://github.com/suprojects/user-info-api#readme"
+}
